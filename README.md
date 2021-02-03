@@ -1,6 +1,11 @@
 # Desafio Residência
-Este projeto é um protótipo da plataforma dinda, que está em desenvolvimento pelo M.I.N.A.S do Porto Digital.
-Desenvolvemos durante uma residência com o Porto Digital a parte ligada ao desafio de como maximizar os matches na plataforma Dinda.
+Este projeto é um protótipo da plataforma dinda. A mesma está em desenvolvimento pelo M.I.N.A.S do Porto Digital.
 
-https://vitormatheus-18.github.io/DesafioResidencia-PortoDigital/
+Através do programa Desafio Residência, junto com a minha equipe, foi possível desenvolver uma parte da plataforma Dinda. 
+
+Nosso desafio na residência se deu a como resolver a maximização dos matches entre "madrinhas" e "afilhadas" na plataforma.
+
+
+
+Acesse  [aqui](https://vitormatheus-18.github.io/DesafioResidencia-PortoDigital/) o front-End do Projeto. :link: 
 
