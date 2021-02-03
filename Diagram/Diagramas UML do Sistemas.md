@@ -20,9 +20,9 @@
 
 ##	d) NFR Framework: 
 
+![img](https://lh3.googleusercontent.com/Ay3hYHBP8oTSt48EejDUIa5Pl5OcxaG-rnWKPSiU0oteo-tOGf-wPpP4Zu5g_VHg7onYBzC1LIgYnYFZPP-bWFTEUlxDO5H1gyecqCaIhx-HR6U5HZvymFbfx5pydyxTpnd0JkTE)
 
 
-![maximizacaoDosMatches2.0](C:\Users\temp\Desktop\Área de Trabalho\maximizacaoDosMatches2.0.jpeg)
 
 
 
