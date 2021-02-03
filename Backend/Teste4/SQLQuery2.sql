@@ -1,0 +1,5 @@
+INSERT [dbo].[Madrinha] ([MadrinhaID],[Nome], [Conhecimentos], [Localizacao],[Horario], [Interesses]) VALUES (1, N'Alanda Aquino', N'JavaScript', N'Carpina-PE', N'Noite', N'Desenhar')
+INSERT [dbo].[Madrinha] ([MadrinhaID],[Nome], [Conhecimentos], [Localizacao],[Horario], [Interesses]) VALUES (2, N'Cecília Oliveira', N'Java', N'Recife-PE', N'Noite', N'Música')
+INSERT [dbo].[Madrinha] ([MadrinhaID],[Nome], [Conhecimentos], [Localizacao],[Horario], [Interesses]) VALUES (3, N'Shayane Correia', N'C#', N'Aldeia-PE', N'Manhã', N'Crossfit')
+INSERT [dbo].[Madrinha] ([MadrinhaID],[Nome], [Conhecimentos], [Localizacao],[Horario], [Interesses]) VALUES (4, N'Maria Eduarda', N'HTML', N'Carpina-PE', N'Tarde', N'Harry Potter')
+INSERT [dbo].[Madrinha] ([MadrinhaID],[Nome], [Conhecimentos], [Localizacao],[Horario], [Interesses]) VALUES (5, N'Letícia Tavares', N'JavaScript', N'Recife-PE', N'Tarde', N'Cantar')

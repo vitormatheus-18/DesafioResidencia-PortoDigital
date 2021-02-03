@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MadrinhasBDModelStoreContainer" CdmEntityContainer="DBModels">
+    <EntitySetMapping Name="Madrinha">
+      <EntityTypeMapping TypeName="MadrinhasBDModel.Madrinha">
+        <MappingFragment StoreEntitySet="Madrinha">
+          <ScalarProperty Name="MadrinhaID" ColumnName="MadrinhaID" />
+          <ScalarProperty Name="Nome" ColumnName="Nome" />
+          <ScalarProperty Name="Conhecimentos" ColumnName="Conhecimentos" />
+          <ScalarProperty Name="Localizacao" ColumnName="Localizacao" />
+          <ScalarProperty Name="Horario" ColumnName="Horario" />
+          <ScalarProperty Name="Interesses" ColumnName="Interesses" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
