@@ -1,5 +1,5 @@
 # Desafio Residência
-Este projeto é um protótipo da plataforma dinda. A mesma está em desenvolvimento pelo M.I.N.A.S do Porto Digital.
+Este projeto é um protótipo exclusivo para desktop da plataforma dinda. A mesma está em desenvolvimento pelo M.I.N.A.S do Porto Digital.
 
 Através do programa Desafio Residência, junto com a minha equipe, foi possível desenvolver uma parte da plataforma Dinda. 
 
